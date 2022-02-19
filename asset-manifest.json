@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fashora/static/css/main.f0243a0e.css",
+    "main.js": "/fashora/static/js/main.0e201749.js",
+    "index.html": "/fashora/index.html",
+    "main.f0243a0e.css.map": "/fashora/static/css/main.f0243a0e.css.map",
+    "main.0e201749.js.map": "/fashora/static/js/main.0e201749.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0243a0e.css",
+    "static/js/main.0e201749.js"
+  ]
+}
